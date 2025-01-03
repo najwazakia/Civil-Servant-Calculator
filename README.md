@@ -1,2 +1,6 @@
 # Civil-Servant-Calculator
-A program written in C++ that allows user to calculate civil servant basic salary and allowances.
+This program is a final project that me and my friends initiated for the subject "Algorithm and Programming"
+
+This program allows user to calculate civil servants' basic salary and allowances based on their class/rank, marital status, number of children, and position.
+
+IMPORTANT NOTE: This program may contain inaccurate data that is not relatable on current situation. This program was only written to show how programming in C++ works.
